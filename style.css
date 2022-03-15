@@ -1,0 +1,40 @@
+ body{
+    background-image: url(./filipp-romanovski-CZ7hM92xPsQ-unsplash.jpg);;
+    padding: 0px;
+    margin: 0px;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+}
+#first{
+    border-radius: 50px;
+    background-color: grey;
+    padding: 10px;
+    color: white;
+}
+#second{
+    background-color: grey;
+    border-radius: 50px;
+    padding: 10px;
+    color: white;
+}
+#third{
+    background-color: grey;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+}
+#four{
+    
+    background-color:red;
+    color: white;
+    border-radius: 50px;;
+    margin-left: 47%;
+}
+#five{
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    border-radius: 50px;
+}
